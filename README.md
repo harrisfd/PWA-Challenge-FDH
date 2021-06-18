@@ -19,7 +19,7 @@ github: https://github.com/harrisfd/PWA-Challenge-FDH
 ## Usage
 Deployed Link: https://budgettrackerfdh.herokuapp.com/
 
-<img src="./icons/PWA Budget Tracker.jpg" alt="JPG of the application"/>
+<img src="./public/icons/PWA Budget Tracker.jpg" alt="JPG of the application"/>
 
 ## Roadmap
 
